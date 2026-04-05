@@ -47,12 +47,12 @@ Add Stripe API keys
 Configure Redis connection
 ### 3. Run the project
 dotnet run
-📬 API Endpoints
+## 📬 API Endpoints
 Auth (Register / Login)
 Products (CRUD)
 Orders (Create / Track)
 Payments (Stripe Integration)
-🧠 Highlights
+## 🧠 Highlights
 Designed using Clean Architecture principles
 Optimized performance using caching
 Built with scalability and maintainability in mind
