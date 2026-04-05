@@ -41,11 +41,11 @@ Infrastructure
 
 ### 1. Clone the repository
 git clone https://github.com/OmarYassin22/ecommerce-platform-api.git
-2. Configure appsettings.json
+### 2. Configure appsettings.json
 Add your SQL Server connection string
 Add Stripe API keys
 Configure Redis connection
-3. Run the project
+### 3. Run the project
 dotnet run
 📬 API Endpoints
 Auth (Register / Login)
